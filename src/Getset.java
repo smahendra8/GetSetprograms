@@ -12,10 +12,15 @@
             returnName;
         }
     }
-    Car car=new car();
-    car.setname("Audi");
-    Car.start();
-    system.out.println("car"+car getName()+"is ready to run);
-      car.setname("benz");
-    car.start();
-    system.ou.println("car"+car getName()+"is ready to run")
+
+ public static void main(String[] args) {
+     Car car=new car();
+     car.setname("Audi");
+     Car.start();
+     system.out.println("car"+car getName()+"is ready to run);
+             car.setname("benz");
+     car.start();
+     system.ou.println("car"+car getName()+"is ready to run")
+ }
+         }
+                 }
