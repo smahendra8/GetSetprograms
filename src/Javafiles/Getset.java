@@ -1,6 +1,8 @@
- class Car {
-    private String name;
-        void start() {
+package Javafiles;
+
+class Car {
+   /* private String name;
+    void start() {
             System.out.println("car" + name + "is started");
         }
 
@@ -22,5 +24,5 @@
      car.start();
      system.ou.println("car"+car getName()+"is ready to run")
  }
-         }
+         }*/
                  }
